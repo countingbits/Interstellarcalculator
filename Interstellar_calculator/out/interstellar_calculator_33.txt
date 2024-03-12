@@ -1,0 +1,8 @@
+
+The weight of your ship, unity, on Earth is: 1234.00 kg or 2720.50 lbs.
+The weight of unity on Jupiter is: 392412.00 kg or 865119.34 lbs.
+
+If you max out your ship going 123451.00 km/hr (76708.87 mph),
+you will get to Jupiter in 0.58 years, 212.21 days, and 5092.95 hours.
+
+Thank you for using the Interstellar Space Calculator! Listen to some good music on your way there!

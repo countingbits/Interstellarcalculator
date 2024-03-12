@@ -1,0 +1,4 @@
+# Interstellarcalculator
+this is one of my first full projects I have finished. it is a basic program, and shows an understanding of the fundamentals.
+The program simply calculates the time it will take to travel to any of the 8 planets (and our moon) and calculates the weight difference between earth and the chosen planet. It will display the speed in KM/H and convert it to MPH, and will display weight as KG also converting that to lbs. 
+Future changes of this code will include a dropdown bar for selecting the planets, along with a dropdown to select if you would like to see only imperial or only metric weights and speeds. 
